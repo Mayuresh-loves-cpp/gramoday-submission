@@ -2,7 +2,7 @@
 
 ## This is the submission for the problem statement given by Gramoday.
 
-## After cloning this repository first install all required packages by doing
+### After cloning this repository first install all required packages by doing
 ### `npm install`
 
 ### To run the server enter following command
